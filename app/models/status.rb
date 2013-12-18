@@ -1,2 +1,2 @@
-raclass Status < ActiveRecord::Base
+class Status < ActiveRecord::Base
 end
